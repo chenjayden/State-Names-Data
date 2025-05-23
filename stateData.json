@@ -1,0 +1,588 @@
+[
+    {
+        "name": "Alabama",
+        "text": "",
+        "top": "65.74%",
+        "left": "67.94%",
+        "students": [
+            "Thomas Hughes – Auburn University"
+        ]
+    },
+    {
+        "name": "Arizona",
+        "text": "",
+        "top": "59.79%",
+        "left": "22.48%",
+        "students": [
+            "Mia Wachman – Arizona State University"
+        ]
+    },
+    {
+        "name": "California",
+        "text": "",
+        "top": "47.04%",
+        "left": "10.30%",
+        "students": [
+            "Aviv Hoitash – UC Berkeley",
+            "Dhruv Vallurupalli – UC Berkeley",
+            "Chloe Hu – UCLA",
+            "Helen Liu – UCLA",
+            "Auri Suder – UCLA",
+            "Ashish Uhlmann – UC Santa Barbara (UCSB)",
+            "Alex Zakuta – UC Santa Barbara (UCSB)",
+            "Michael Shen – University of Southern California",
+            "Daniel Jang – University of Southern California",
+            "Lani Folchi – San Diego State University",
+            "Sara Volpe – San Diego State University",
+            "Malachy Dubin – Loyola Marymount University",
+            "Tali Edelstein – Scripps College"
+        ]
+    },
+    {
+        "name": "Colorado",
+        "text": "",
+        "top": "44.27%",
+        "left": "34.80%",
+        "students": [
+            "Hugh Palframan – University of Colorado Boulder",
+            "Meghan Holt – University of Colorado Boulder",
+            "Teddy Shifman – University of Colorado Boulder",
+            "Udaii Abu Amara – University of Colorado Boulder",
+            "Megan Tarmy – Colorado State University",
+            "Daniele Zellino – University of Denver"
+        ]
+    },
+    {
+        "name": "Connecticut",
+        "text": "",
+        "top": "29.82%", "left": "87.61%",
+        "students": [
+            "Athena Vu – Connecticut College",
+            "Jarred Aquino – University of Connecticut",
+            "Karin Shimizu-Brennan – University of Connecticut",
+            "Claire Hunt – University of Connecticut",
+            "Yuna Choi – University of Connecticut",
+            "Ember Mahnke – Wesleyan University",
+            "Noah Huckman – Wesleyan University",
+            "Ethan Diamondstein – Wesleyan University",
+            "Jacob Lewis – Yale University",
+            "Isabella Linscott – Sacred Heart University",
+            "Lola Fayngersh – Fairfield University",
+            "Leah Teleshevsky – Fairfield University"
+        ]
+    },
+    {
+        "name": "District of Columbia",
+        "text": "",
+        "top": "40.77%", "left": "82.35%",
+        "students": [
+            "Ari Ehrlich – American University",
+            "Carola Lopez – George Washington University",
+            "Max Kret – George Washington University",
+            "Naomi Kouri – George Washington University",
+            "Sarina Chand – Georgetown University"
+        ]
+    },
+    {
+        "name": "Florida",
+        "text": "",
+        "top": "77.86%",
+        "left": "78.89%",
+        "students": [
+            "Ami Bouzaglo – University of Miami",
+            "Abigail Kessel – University of Miami",
+            "Scarlett Black – University of Tampa",
+            "Danielle Kessel – University of Tampa"
+        ]
+    },
+    {
+        "name": "Georgia",
+        "text": "",
+        "top": "64.89%",
+        "left": "74.42%",
+        "students": [
+            "Eden Levitt-Horne – University of Georgia"
+        ]
+    },
+    {
+        "name": "Illinois",
+        "text": "",
+        "top": "43.96%",
+        "left": "62.32%",
+        "students": [
+            "Asher Navisky – Northwestern University",
+            "Lee Nevo – Northwestern University",
+            "Olivia Hong – Northwestern University",
+            "Hannah Schwager – University of Chicago",
+            "Jason Chiu – University of Illinois Urbana-Champaign",
+            "Iselle Cohen – School of the Art Institute of Chicago"
+        ]
+    },
+    {
+        "name": "Indiana",
+        "text": "",
+        "top": "40.34%", 
+        "left": "66.93%",
+        "students": [
+            "Andrew Shore – Indiana University Bloomington",
+            "Alissa Cafaro – Indiana University Bloomington",
+            "Graham Blythe – Indiana University Bloomington",
+            "Lauren Steel – Indiana University Bloomington",
+            "Nisha Jha – Indiana University Bloomington",
+            "Mary Pierce – Purdue University",
+            "Noam Elyashiv – Purdue University",
+            "Ross Israel – Purdue University",
+            "Yutong Yan – Purdue University"
+        ]
+    },
+    {
+        "name": "Louisiana",
+        "text": "",
+        "top": "69.24%", "left": "56.48%",
+        "students": [
+            "Jack Harrild – Tulane University"
+        ]
+    },
+    {
+        "name": "Maine",
+        "text": "",
+        "top": "15.26%", 
+        "left": "91.86%",
+        "students": [
+            "Levin Brenner – Bowdoin College",
+            "Yasmine Burris-Khan – Bowdoin College",
+            "Lawson Welch – Colby College",
+            "Joseph Capasso – University of Maine"
+        ]
+    },
+    {
+        "name": "Maryland",
+        "text": "",
+        "top": "38.53%", "left": "82.49%",
+        "students": [
+            "Emma Canty – University of Maryland",
+            "Julia Sayers – University of Maryland",
+            "Matthew Welch – University of Maryland",
+            "Nathan Chow – University of Maryland",
+            "Noa Munn – University of Maryland",
+            "Tatianna Trotman – Morgan State University",
+            "Nyla Bass – Morgan State University",
+            "Advik Chandok – Johns Hopkins University"
+        ]
+    },
+    {
+        "name": "Massachusetts",
+        "text": "",
+        "top": "26.53%", "left": "87.68%",
+        "students": [
+            "Zenzen Loo – Amherst College",
+            "Guy Wenderow – Bentley University",
+            "Izzy Gimmelfarb – Bentley University",
+            "Anel Caballero – Bentley University",
+            "Ethan Simpson – Bentley University",
+            "Ethan Vagenshtein – Bentley University",
+            "Molly Johnson – Boston College",
+            "Josh Rivers – Boston College",
+            "Julia Lee – Boston College",
+            "Alessia Ellmore – Boston University",
+            "Justin Juvet – Boston University",
+            "Zhixin (Lulu) Jin – Boston University",
+            "Jessi Lu – Boston University",
+            "Faria Ashrafi – Boston University",
+            "Grace Dempsey – Boston University",
+            "Julia Hulburd – Boston University",
+            "Liam Glanville – Boston University",
+            "Mina Chavez – Boston University",
+            "Kyle Lin – Boston University",
+            "Sophie Livingston – Boston University",
+            "Ashram Bhattarai – Brandeis University",
+            "Ellie Fiadjoe – Brandeis University",
+            "Amber Joseph – Brandeis University",
+            "Aretina Zhang – Brandeis University",
+            "Ruby Marx – Clark University",
+            "Josh Khan – Clark University",
+            "Natalie Curtis – Curry College",
+            "David Schein – Curry College",
+            "Kaya Silva – Emerson College",
+            "Zach Levy – Emerson College",
+            "Matthew Quisel – Harvard University",
+            "Risha Sinha – Harvard University",
+            "Shelley Wei – Harvard University",
+            "Nya Merritt – Lesley University",
+            "Sophia Liu – Mass College of Pharmacy and Health Sciences",
+            "Christine Weng – Mass College of Pharmacy and Health Sciences",
+            "Juliana Gomez – Massachusetts Institute of Technology",
+            "Mayuri Fiete – Massachusetts Institute of Technology",
+            "Shaked Srabstein – Massachusetts Institute of Technology",
+            "Sophia Gorman – Merrimack College",
+            "Francisco Shelton – Merrimack College",
+            "Alana Penix – Merrimack College",
+            "Jamaree Pope – Merrimack College",
+            "Salome Hizanishvili – Mount Holyoke College",
+            "Catherine Chung – Mount Holyoke College",
+            "Thi Vinh Nguyen – Mount Holyoke College",
+            "Sophia Lao – Northeastern University",
+            "Shira Zimmermann – Northeastern University",
+            "Angie Li – Northeastern University",
+            "Benjamin Nusinzon – Northeastern University",
+            "Wilson Wen – Northeastern University",
+            "Yali Cohen – Northeastern University",
+            "Vivian Larsen – Northeastern University",
+            "Sam Rudenko – Northeastern University",
+            "Aidan John – Northeastern University",
+            "Guy Miller – Northeastern University",
+            "Catalina Quach – Northeastern University",
+            "Cate Siracusa – Smith College",
+            "Leonor Quessa Perez – Simmons University",
+            "Matt Letourneau – Stonehill College",
+            "Taylor Joynt – Suffolk University",
+            "Rokaya Emam – Suffolk University",
+            "AJ Nguyen – Tufts University",
+            "Ellie Lemberg – Tufts University",
+            "Otto Moller – Tufts University",
+            "Ally Chen – Tufts University",
+            "Mads Traxler – Tufts University",
+            "Ryan Ye – Tufts University",
+            "Joseph Manna – Tufts University",
+            "Layla Kaunfer – Tufts University",
+            "Renee Lu – Tufts University",
+            "Jeremy Gao – Tufts University",
+            "Bjorn Hnasko – UMass (Amherst)",
+            "Emma Tian – UMass (Amherst)",
+            "Sawyer Reitz – UMass (Amherst)",
+            "Sophie Shkolnik – UMass (Amherst)",
+            "Charlotte Storey – UMass (Amherst)",
+            "Ben Nir – UMass (Amherst)",
+            "Talia Zolondick – UMass (Amherst)",
+            "Lucia Baring-Gould – UMass (Amherst)",
+            "Ron Shilovitsky – UMass (Amherst)",
+            "Madalena Madeira – UMass (Amherst)",
+            "Einav Wolf – UMass (Amherst)",
+            "Aaheli Gangopadhyay – UMass (Amherst)",
+            "Amie Lee – UMass (Amherst)",
+            "Yonatan Tevet-Markelevich – UMass (Amherst)",
+            "Julian Mendez – UMass (Boston)",
+            "Lydia Cathcart – UMass (Boston)",
+            "Jianna Reyes – UMass (Boston)",
+            "Armaan Khan Ishaq – UMass (Boston)",
+            "Ayah Elfaki – UMass (Dartmouth)",
+            "Jose Garcia – UMass (Lowell)",
+            "Sam Letourneau – Wentworth Institute of Technology",
+            "Caleb Baring-Gould – Wentworth Institute of Technology",
+            "Andrew Charles-Prophete – Wentworth Institute of Technology",
+            "Mia Songer – Westfield State University",
+            "Alma Yosfan – Wheaton College",
+            "Lauren Kelley – Wheaton College",
+            "Alex Friedman – Williams College",
+            "Nathan Hutchinson – Berklee College of Music",
+            "Aidan Thomas – Endicott College",
+            "Faith O'Toole – Bridgewater State University",
+            "Beatriz Paulo – Regis College",
+            "Jordyn Clark – Bunker Hill Community College"
+        ]
+    },
+    {
+        "name": "Michigan",
+        "text": "",
+        "top": "30.78%", 
+        "left": "69.02%",
+        "students": [
+            "Mia Freed – University of Michigan",
+            "Kate Grabowski – University of Michigan",
+            "Charlie Bluestein – University of Michigan",
+            "Lucas Nelson – University of Michigan",
+            "Micah Weisskopf – University of Michigan",
+            "Peter Eliopoulos – Michigan State University"
+        ]
+    },
+    {
+        "name": "Montana",
+        "text": "",
+        "top": "19.73%", 
+        "left": "31.41%",
+        "count": 1,
+        "students": [
+            "John Robinson – Montana State University"
+        ]
+    },
+    {
+        "name": "New Hampshire",
+        "text": "",
+        "top": "23.44%", "left": "88.69%",
+        "count": 6,
+        "students": [
+            "Andy McGuire – Dartmouth College",
+            "Max Hubbard – Dartmouth College",
+            "Polina Kontorovich – Dartmouth College",
+            "Thomas Kinney – Dartmouth College",
+            "Gavin Sousa – Saint Anselm College",
+            "Jack Moran – Phillips Exeter Academy"
+        ]
+    },
+    {
+        "name": "New Jersey",
+        "text": "",
+        "top": "35.56%", "left": "85.88%",
+        "count": 3,
+        "students": [
+            "Sofia Dos Anjos – Rutgers University",
+            "Jade Lee – Rutgers University",
+            "Zain Kapoor – Princeton University"
+        ]
+    },
+    {
+        "name": "New York",
+        "text": "",
+        "top": "26.21%", "left": "82.35%",
+        "count": 34,
+        "students": [
+            "Aaron Waksler – Colgate University",
+            "Miles Tucker – Colgate University",
+            "Tali Wachman – Cornell University",
+            "Daniel Lee-Hassett – Cornell University",
+            "Vivi Shreve – Cornell University",
+            "Adam Sheena – Cornell University",
+            "Nico Bradley – Ithaca College",
+            "Kaiden Reitz – Ithaca College",
+            "Finnegan Klein – New York Film Academy",
+            "Suraj Chaundhry – NYU",
+            "Feiya Wang – NYU",
+            "Aran Chakraborty – NYU",
+            "Lynn Kim – NYU",
+            "Wes Halliwell – Rensselaer Polytechnic Institute",
+            "Anna Patterson – Rochester Institute of Technology",
+            "Matt Almeida – Rochester Institute of Technology",
+            "Connor Bonegio – Stevens Institute of Tech",
+            "Grace Chan – Stony Brook University",
+            "Cassie Gui – Stony Brook University",
+            "Ben Briansky – Syracuse University",
+            "Makayla Gilchrist – Syracuse University",
+            "Julian Blaustein – Syracuse University",
+            "Kimmie Chan – Syracuse University",
+            "Maddy Wetlaufer – Syracuse University",
+            "Kate Zella – Syracuse University",
+            "Jacquie Ginsburg – Syracuse University",
+            "Zack Gusenoff – Syracuse University",
+            "Ray Brodie – Syracuse University",
+            "Andy Smith – Syracuse University",
+            "Ruben Setboun – Syracuse University",
+            "Andy Silberstein – Columbia University",
+            "Sonia Milsten-Ockene – Union College",
+            "Helen Gass – Hamilton College",
+            "Mia Lahav – Pratt Institute"
+        ]
+    },
+    {
+        "name": "North Carolina",
+        "text": "",
+        "top": "54.37%", 
+        "left": "80.76%",
+        "count": 6,
+        "students": [
+            "Ally Rotenberg – Elon University",
+            "Nicole Di Leo – Elon University",
+            "Persifoni Axiotis – Elon University",
+            "Arianna Yankovski – Wake Forest University",
+            "Oscar Mulcahey – Wake Forest University",
+            "Joey Giragos – UNC Chapel Hill"
+        ]
+    },
+    {
+        "name": "Ohio",
+        "text": "",
+        "top": "38.64%", "left": "71.47%",
+        "count": 4,
+        "students": [
+            "Clio Mcaneny – Ohio State University",
+            "Ashley Philips – Ohio State University",
+            "Maya Hayao – Case Western Reserve University",
+            "Nash Bryden – Denison University"
+        ]
+    },
+    {
+        "name": "Pennsylvania",
+        "text": "",
+        "top": "35.77%", 
+        "left": "80.91%",
+        "count": 20,
+        "students": [
+            "Jenna Schwartz – UPenn",
+            "Emma Yao – University of Pittsburgh",
+            "Jake Goodman – University of Pittsburgh",
+            "Anushka Singh – University of Pittsburgh",
+            "Shayla Bellucci – University of Pittsburgh",
+            "Amelie Hirst – University of Pittsburgh",
+            "Aayan Sharma – Carnegie Mellon University",
+            "Celina Poon – Carnegie Mellon University",
+            "Joy Zou – Carnegie Mellon University",
+            "Ria Sabesan – Carnegie Mellon University",
+            "Zachary Luxama – Temple University",
+            "Josie Weiner – Villanova University",
+            "Hudson Adams – Lafayette College",
+            "Caleb Hong – Bucknell University",
+            "Jake Sokatch – Dickinson College",
+            "Eamon Gormley – Penn State University",
+            "Naama Ailon – Drexel University",
+            "Binh Hoffman – Gettysburg College",
+            "Kyra Bi – Haverford College"
+        ]
+    },
+    {
+        "name": "Rhode Island",
+        "text": "",
+        "top": "28.65%", "left": "89.63%",
+        "count": 3,
+        "students": [
+            "Mady Daley – Providence College",
+            "Hero Glennon – Roger Williams University",
+            "Marty Basaria – Brown University"
+        ]
+    },
+    {
+        "name": "South Carolina",
+        "text": "",
+        "top": "59.37%", 
+        "left": "78.67%",
+        "count": 5,
+        "students": [
+            "Alicia Batt – College of Charleston",
+            "Desmond Rohda – College of Charleston",
+            "Thomas Flaig – College of Charleston",
+            "Cecilia Sheehan – College of Charleston",
+            "Lucy Gage – University of South Carolina"
+        ]
+    },
+    {
+        "name": "Tennessee",
+        "text": "",
+        "top": "53.84%", "left": "66.28%",
+        "count": 5,
+        "students": [
+            "Layla Sonderling – Vanderbilt University",
+            "Elad Kelmer-Racin – Vanderbilt University",
+            "Ella Hurwitz – Vanderbilt University",
+            "Sam McFarland – Vanderbilt University",
+            "Alex Rhein – Vanderbilt University"
+        ]
+    },
+    {
+        "name": "Texas",
+        "text": "",
+        "top": "73.29%",
+        "left": "45.97%",
+        "count": 1,
+        "students": [
+            "Audrey Grinspoon – Texas Christian University"
+        ]
+    },
+    {
+        "name": "Vermont",
+        "text": "",
+        "top": "20.89%", "left": "86.24%",
+        "count": 6,
+        "students": [
+            "Ian Giglio-Dirga – University of Vermont (UVM)",
+            "Skyler Montgomery – University of Vermont (UVM)",
+            "Anya Greenstein – University of Vermont (UVM)",
+            "Lukas Lisovski-Zic – Middlebury College",
+            "Natalie Alexander – Middlebury College",
+            "Will Cuphone – Norwich University"
+        ]
+    },
+    {
+        "name": "Virginia",
+        "text": "",
+        "top": "45.87%", "left": "80.19%",
+        "count": 1,
+        "students": [
+            "Owen Coleman – Virginia Tech"
+        ]
+    },
+    {
+        "name": "Washington",
+        "text": "",
+        "top": "13.14%", 
+        "left": "14.77%",
+        "count": 1,
+        "students": [
+            "Tate Slater – University of Washington"
+        ]
+    },
+    {
+        "name": "Wisconsin",
+        "text": "",
+        "top": "27.48%", 
+        "left": "60.88%",
+        "count": 6,
+        "students": [
+            "Ariel Bonshtein – University of Wisconsin-Madison",
+            "Gabe Lieman – University of Wisconsin-Madison",
+            "Jenna Kriensky – University of Wisconsin-Madison",
+            "Josh Feiner – University of Wisconsin-Madison",
+            "Ruby Berzin – University of Wisconsin-Madison",
+            "Sofia Jackson – Beloit College"
+        ]
+    },
+    {
+        "name": "Canada",
+        "text": "",
+        "top": "7.35%", 
+        "left": "43.80%", 
+        "count": 6,
+        "students": [
+            "Meyssa Korideck – McGill University",
+            "Alexandra Bouchard – McGill University",
+            "Cormac Healy – McGill University",
+            "Jenny Lee – McGill University",
+            "Bella Patel – University of Toronto",
+            "Yushi Tsukamoto – University of British Columbia"
+        ]
+    },
+    {
+        "name": "Israel",
+        "text": "",
+        "top": "15%", 
+        "left": "75%",
+        "count": 3,
+        "students": [
+            "Yael Haimovich – Israeli Defense Force",
+            "Maya Paisner – Israeli Defense Force",
+            "Edden Gilman – Mechinat Galil Elyon"
+        ]
+    },
+    {
+        "name": "United Kingdom",
+        "text": "",
+        "top": "10%", 
+        "left": "75%",
+        "count": 3,
+        "students": [
+            "Saja Elsherify – University of Leeds",
+            "Alexandra Kagan – Richmond American University London",
+            "Fiona Cugini – Richmond American University London"
+        ]
+    },
+    {
+        "name": "Ireland",
+        "text": "",
+        "top": "10%", 
+        "left": "80%",
+        "count": 2,
+        "students": [
+            "Ella O'Halloran – Trinity College Dublin",
+            "Ella Geffen – Trinity College Dublin"
+        ]
+    },
+    {
+        "name": "Japan",
+        "text": "",
+        "top": "15%", 
+        "left": "80%",
+        "count": 3,
+        "students": [
+            "Aoba Fujita – Waseda University",
+            "Mirae Lim – Temple University (Japan)",
+            "Natsumi Fujita – International Christian University"
+        ]
+    }
+]
