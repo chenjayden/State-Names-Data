@@ -584,12 +584,12 @@
             "Mirae Lim – Temple University (Japan)",
             "Natsumi Fujita – International Christian University"
         ]
-    }
-        {
+    },
+    {
         "name": "Netherlands",
         "text": "",
-        "top": "15%", 
-        "left": "85%",
+        "top": "12.5%", 
+        "left": "77.5%",
         "count": 1,
         "students": [
             "Maya Goldberger - Eindhoven University of Technology"
