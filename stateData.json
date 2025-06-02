@@ -585,4 +585,14 @@
             "Natsumi Fujita – International Christian University"
         ]
     }
+        {
+        "name": "Netherlands",
+        "text": "",
+        "top": "15%", 
+        "left": "85%",
+        "count": 1,
+        "students": [
+            "Maya Goldberger - Eindhoven University of Technology"
+        ]
+    }
 ]
